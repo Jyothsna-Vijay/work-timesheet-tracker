@@ -7,7 +7,7 @@ Features:
 - Automatic working day generation
 - Clock in/out tracking
 - Hour calculations
-- £13 hourly pay calculation
+- Hourly pay calculation
 - Local browser storage
 
 Future plans:
